@@ -15,10 +15,10 @@
   }
   .head{
     font-family: "Brush Script MT";
-    font-size: larger;
+    font-size: 100px;
     color:darkorchid;
   }
-  
+
 img{
     align-self: center;
     align-items: top;
