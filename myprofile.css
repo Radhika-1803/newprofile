@@ -16,7 +16,7 @@
   .head{
     font-family: "Brush Script MT";
     font-size: 150px;
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 5px;
     -webkit-text-stroke-color: black;
   }
 h4{
