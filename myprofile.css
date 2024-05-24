@@ -18,7 +18,7 @@
     font-size: 70px;
   }
 h4{
-  color: crimson;
+  color: rgb(3, 3, 3);
 }
 
 img{
@@ -48,11 +48,14 @@ img{
   color:rgba(77, 233, 186, 0.911);
 }
 .R{
-  color:greenyellow
+  color:rgb(235, 20, 220);
 }
 .D{
   color:peru;
 }
 .S{
   color:steelblue;
+}
+.para{
+  color:white;
 }
