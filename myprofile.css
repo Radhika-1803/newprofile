@@ -17,8 +17,7 @@
     font-family: "Brush Script MT";
   }
 img{
-    align-self: center;
-    bottom: 200px;
+    margin-bottom:300px; ;
 }
 .column{
     text-align: center;
