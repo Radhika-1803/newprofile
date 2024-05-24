@@ -18,7 +18,9 @@
     font-size: 100px;
     color:darkorchid;
   }
-
+h4{
+  color: crimson;
+}
 img{
     align-self: center;
     align-items: top;
