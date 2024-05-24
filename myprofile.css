@@ -30,31 +30,31 @@ img{
     margin-bottom: 50%;
 }
 .L{
-  color:aqua;
+  color:rgb(164, 30, 198);
 }
 .O{
-  color:palevioletred;
+  color:rgb(8, 7, 7);
 }
 .V{
-  color:rgb(60, 39, 7);
+  color:rgb(244, 101, 180);
 }
 .E{
-  color:purple;
+  color:skyblue;
 }
 .B{
-  color:chocolate;
+  color:lightgreen;
 }
 .I{
-  color:rgba(77, 233, 186, 0.911);
+  color:rgba(252, 223, 7, 0.911);
 }
 .R{
-  color:rgb(235, 20, 220);
+  color:rgb(241, 140, 24);
 }
 .D{
-  color:peru;
+  color:rgb(26, 94, 142);
 }
 .S{
-  color:steelblue;
+  color:rgb(164, 30, 198);
 }
 .para{
   color:white;
