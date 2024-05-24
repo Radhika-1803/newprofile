@@ -15,6 +15,8 @@
   }
   .head{
     font-family: "Brush Script MT";
+    font-size: larger;
+    color:darkorchid;
   }
 img{
     align-self: center;
