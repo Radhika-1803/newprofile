@@ -9,3 +9,7 @@
     display: table;
     clear: both;
   }
+  .ps{
+    font-size: smaller;
+    left:50%;
+  }
