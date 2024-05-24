@@ -11,14 +11,14 @@
   }
   .ps{
     font-size:10px;
-    margin-left: 35%;
+    margin-left: 15%;
   }
   .head{
     font-family: "Brush Script MT";
     font-size: 150px;
     -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: black;
-    margin-top: 15px;
+    margin-top: 20px;
   }
 h4{
   color: rgb(3, 3, 3);
