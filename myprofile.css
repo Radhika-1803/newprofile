@@ -10,8 +10,8 @@
     clear: both;
   }
   .ps{
-    font-size: smaller;
-    left:50%;
+    font-size:2px;
+    text-align: end;
   }
   .head{
     font-family: "Brush Script MT";
