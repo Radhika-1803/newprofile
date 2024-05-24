@@ -2,7 +2,7 @@
     float: left;
     width: 50%;
     padding: 10px;
-    height: 500px; 
+    height: 900px; 
   }
   .row:after {
     content: "";
@@ -24,5 +24,5 @@ img{
     text-align: center;
 }
 .para{
-    text-combine-upright: 300px;
+   margin-bottom: 50%;
 }
