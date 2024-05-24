@@ -9,3 +9,9 @@
     display: table;
     clear: both;
   }
+  .head{
+    font-family: "Brush Script MT";
+  }
+  .ps{
+    left:400px;
+  }
